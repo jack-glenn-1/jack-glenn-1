@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a Senior at the University of Iowa with a anticipated graduation date of May 2025. I am Majoring in Business Analytics and Information Systems, and Minoring in Sport and Recreation Management. This past summer, I interned at Centene Corporation, A Fortune 500 (22) Healthcare enterprise, as a Data Analyst
+I am a Senior at the University of Iowa with a anticipated graduation date of May 2025. I am Majoring in Business Analytics and Information Systems, and Minoring in Sport and Recreation Management. This past summer, I interned at Centene Corporation, A Fortune 500 (#22) Healthcare enterprise, as a Data Analyst
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jack-glenn-profile/) 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://jackglenn.me/)
