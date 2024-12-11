@@ -12,7 +12,14 @@ I am a Senior at the University of Iowa with a anticipated graduation date of Ma
 ---
 
 ## Technical Skills/Languages
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Python badge](https://img.shields.io/static/v1?message=Python&logo=Python&labelColor=3776AB&color=3776AB&logoColor=white&label=%20&style=for-the-badge) ![R badge](https://img.shields.io/static/v1?message=R%20programming&logo=R&logoColor=3776AB&label&style=for-the-badge&color=eee) ![R Studio badge](https://img.shields.io/static/v1?message=R%20Studio&logo=RStudio&labelColor=75AADB&color=75AADB&logoColor=white&label=%20&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python badge](https://img.shields.io/static/v1?message=Python&logo=Python&labelColor=3776AB&color=3776AB&logoColor=white&label=%20&style=for-the-badge)
+![R badge](https://img.shields.io/static/v1?message=R%20programming&logo=R&logoColor=3776AB&label&style=for-the-badge&color=eee)
+![R Studio badge](https://img.shields.io/static/v1?message=R%20Studio&logo=RStudio&labelColor=75AADB&color=75AADB&logoColor=white&label=%20&style=for-the-badge)
+![SQL badge](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 --- 
 
