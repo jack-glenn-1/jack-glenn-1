@@ -25,13 +25,15 @@ I am a Senior at the University of Iowa with a anticipated graduation date of Ma
 
 ## Relevant Coursework
 
-BAIS:3020	-   Computational Thinking
+BAIS:3020	-   Computational Thinking (Python Intro)
 
-BAIS:3200	-   Database Management
+BAIS:3200	-   Database Management (SQL Intro)
 
-BAIS:3250	-   Data Wrangling
+BAIS:3250	-   Data Wrangling (R/RStudio Intro)
 
-BAIS:3300   -   Digital Product Management 
+BAIS:3300   -   Digital Product Management (Azure, HTML/CSS, JavaScript)
+
+BAIS:3500   -  Data Mining 
 
 ---
 
