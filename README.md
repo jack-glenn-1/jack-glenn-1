@@ -35,6 +35,10 @@ BAIS:3300   -   Digital Product Management (Azure, HTML/CSS, JavaScript)
 
 BAIS:3500   -  Data Mining 
 
+BAIS:3400  -  Cloud Computing 
+
+BAIS:4150 - Analytics Capstone
+
 ---
 
 ![University of Iowa badge](https://img.shields.io/static/v1?message=Hawks!!&labelColor=000000&color=FFCD00&label=Go&style=for-the-badge)
